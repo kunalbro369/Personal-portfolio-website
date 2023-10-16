@@ -2,8 +2,7 @@ React Portfolio Website with Theme Customization Light/Dark Mode
 
 <p align="center">
   <kbd>
-<img src="https://github.com/kunalbro369/Personal-portfolio-website/assets/96117635/f03bf6f3-de3e-4bb1-8739-5e01090edb02
-"></img>
+<img src="https://github.com/kunalbro369/Personal-portfolio-website/assets/96117635/f03bf6f3-de3e-4bb1-8739-5e01090edb02"></img>
   </kbd>
 </p>
 
